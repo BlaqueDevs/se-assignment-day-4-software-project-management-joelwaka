@@ -175,6 +175,23 @@ Would you like more tailored examples, perhaps aligned with your background in r
 
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+Clear Requirements: Define and agree on project goals with all stakeholders.
+QA Strategy: Plan testing methods and responsibilities.
+Automated Testing: Use tools to test frequently with CI/CD pipelines.
+Code Reviews: Regularly check code for errors and standards.
+Layered Testing: Test components (unit), integrations, and the full system.
+Agile Approach: Test and improve in small, iterative cycles.
+User Testing: Validate functionality with real users.
+Bug Tracking: Log and resolve issues efficiently.
+Regression Testing: Re-test after updates to avoid new problems.
+Documentation: Keep records of test results and fixes.
+Why High Standards Matter:
+Reliability: Fewer crashes and better performance.
+Trust: Builds customer confidence.
+Cost-Effective: Fixing early saves money.
+Security: Protects user data.
+Scalability: Prepares software for growth.
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
